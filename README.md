@@ -1,30 +1,26 @@
-# This is a large heading
+# Dustin Wood
 
-## This is a smaller heading
+### Cognitive Control and Psychopathology Lab
 
-And as **imagination** bodies forth, 
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing, 
-A local *habitation* and a **name**.
+The Cognitive control and pshychopathology lab *(CCP)* is
+located on Washington University's Danforth campus. 
 
-- This is
-- an unordered
-- list
+### Projects
 
-1. This is
-2. an ordered
-3. list
+I will be working on:
 
-Here is `some code` in the middle of a sentence.
+-learning bash, python, R, to manipulate and move data
+-learning how to deploy containers
+-comparing  HCP and fMRIprep pipelines
 
-```
-This is
-a block
-of code
-```
+### Education and Work
 
-Here is how you make [a link](https://www.wikipedia.org).
+Previously I worked:
+1. MU Neuro
+2. MU CRC
+3. MU biomedical engineering
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustace.jpg)
+### Contact
 
-nano README.md
+Please contact me [on LinkedIn](https://linkedin.com/in/wooddustin/lin).
+
